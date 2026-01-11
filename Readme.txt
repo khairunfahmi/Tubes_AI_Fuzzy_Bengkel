@@ -45,6 +45,10 @@ Struktur Data Output
 Output berupa file Excel berisi 5 baris data dengan kolom:
 - id      : ID Bengkel
 - servis  : Nilai input servis
+
+Khairun Fahmi : Source Program dan File Readme
+Ahnaf Ariacheda : Poster
 - harga   : Nilai input harga
 
 - skor    : Hasil perhitungan Defuzzifikasi (0-100)
+
