@@ -3,11 +3,10 @@ Tugas Besar Mata Kuliah Kecerdasan Buatan
 Fuzzy Logic
 
 Rekomendasi Bengkel Terbaik
-
-KELOMPOK : 
+ 
 ANGGOTA  : 
-1. 
-2. 
+1. Khairun Fahmi (103132400035)
+2. Ahnaf Ariacheda (103132400037)
 
 ---------------------------------------------------------
 Deskripsi Singkat
@@ -47,4 +46,5 @@ Output berupa file Excel berisi 5 baris data dengan kolom:
 - id      : ID Bengkel
 - servis  : Nilai input servis
 - harga   : Nilai input harga
+
 - skor    : Hasil perhitungan Defuzzifikasi (0-100)
